@@ -188,4 +188,4 @@ AI가 제안한 통계, 코드 및 해석은 공식 통계 자료와 실제 실�
 code/main.py 실행. 필요한 라이브러리는 requirements.txt.
 
 ## 배포(선택)
-스트림릿 주소:https://korea-household-finance-mvmucmappc3b6ptfdffmsq.streamlit.app/
+스트림릿 주소 - https://korea-household-finance-mvmucmappc3b6ptfdffmsq.streamlit.app/
